@@ -58,7 +58,7 @@ I'm a passionate and driven backend developer currently learning **Java Spring B
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/rittik-ram-aaa979209)
+- [LinkedIn](https://www.linkedin.com/in/rittik-ram-aaa979209/)
 - [Email](mailto:hrittickramspi40@gmail.com)
 
 ---
